@@ -1,0 +1,43 @@
+Te encuentras en un muelle. Es de noche pero la luna ilumina todo el lugar. En el suelo hay algunos objetos, y sientes muchas ganas de ir hacia una taberna.
+
+> mirar alrededor
+
+Estás en un muelle. En el suelo hay una barreta, un rociador con cerveza de raiz y un espejo. Hay un pirata fantasma. Al sur se puede ir hacia una taberna.
+
+> ir hacia la taberna
+
+- '¡No puedes pasar!' El pirata fantasma no te dejará pasar
+
+> hablar con pirata fantasma
+
+'¡No hay nada que me digas que me haga cambiar de opinión!'
+
+> golpear pirata fantasma
+
+Eso no ha servido de nada
+
+> recoger barreta
+
+Tienes una barreta en tu inventario
+
+> usar barreta en pirata fantasma
+
+Eso no ha servido de nada
+
+> recoger rociador
+
+Tienes una barreta y un rociador con cerveza de raiz en tu inventario
+
+> usar rociador en pirata fantasma
+
+- '¡Me encanta la cerveza de raiz!' El pirata fantasma se veía entusiasmado por tu ofrecimiento... sin embargo, cuando lo rociaste comenzó a desintegrarse. La mitad de arriba de su cuerpo se desvaneció, y las piernas inmediatamente echaron a correr.
+
+> mirar alrededor
+
+Estás en un muelle. En el suelo hay un espejo. Al sur se puede ir hacia una taberna.
+
+> ir hacia la taberna
+
+¡Enhorabuena! Llegaste a la taberna, donde te espera una noche de borrachera con Grog y otros colegas piratas.
+
+FIN

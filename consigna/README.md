@@ -35,7 +35,7 @@ La mecánica del juego, que puede experimentarse para su versión en inglés en 
 
 Se espera que el equipo de trabajo realice tanto el motor de procesamiento de comandos y consultas, como también un modelo de ejecución de aventuras, tal que cambiando el archivo de la aventura, pueda jugarse a otra esencial y completamente diferente.
 
-Se proveerá de una [micro-aventura de pruebas](mi.zork), que puede utilizarse como base para desarrollar el juego. Sin embargo, puede utilizarse un formato diferente si se desea.
+Se proveerá de una [micro-aventura de pruebas](mi) junto con su [archivo generador](mi.zork), que puede utilizarse como base para desarrollar el juego. Sin embargo, puede utilizarse un formato diferente si se desea.
 
 Adicionalmente se pedirá el desarrollo de una pequeña aventura nueva, que sea más extensa que la provista por la cátedra y ejercite todas las funcionalidades cumplidas y agregadas por el equipo.
 
