@@ -1,7 +1,7 @@
 # Trabajo Práctico del Taller de Programación Avanzada
 
 ## Introducción
-Durante el taller desarrollaremos un juego de ficción interactiva similar al [Zork](https://es.wikipedia.org/wiki/Zork). En las clases del taller se les proveerá de herramientas para poder realizarlo en Java, con las buenas prácticas que irán adquiriendo.
+Durante el taller desarrollaremos un **motor para juegos de ficción interactiva** similar al [Zork](https://es.wikipedia.org/wiki/Zork). En las clases del taller se les proveerá de herramientas para poder realizarlo en Java, con las buenas prácticas que irán adquiriendo.
 
 
 ### Metodología de trabajo
@@ -37,7 +37,58 @@ Se espera que el equipo de trabajo realice tanto el motor de procesamiento de co
 
 Se proveerá de una [micro-aventura de pruebas](mi) junto con su [archivo generador](mi.zork), que puede utilizarse como base para desarrollar el juego. Sin embargo, puede utilizarse un formato diferente si se desea.
 
-Adicionalmente se pedirá el desarrollo de una pequeña aventura nueva, que sea más extensa que la provista por la cátedra y ejercite todas las funcionalidades cumplidas y agregadas por el equipo.
+Adicionalmente se pedirá el desarrollo de una pequeña aventura nueva, que sea más extensa que la provista por la cátedra y ejercite todas las funcionalidades cumplidas y agregadas por el equipo. Especificaciones de dicha aventura:
+
+* Cinco o más lugares a explorar. Puede haber más de una conexión por la cual llegar a cada lugar.
+* Dos sitios por lugar, como mínimo. En esos sitios puede haber ítems.
+* Diez ítems con los que pueda interactuarse.
+* Tres o más maneras de interactuar distintas (abrir, usar, golpear, etc)
+* Cinco personajes no jugables con los que interactuar (dialogar, combatir, ayudar, etc)
+* Dos o más condiciones de final (llegar a un lugar, conseguir un ítem, llevar cierto ítem a cierto lugar, vencer a un villano, etc)
+
+## Ideas para una aventura propia
+
+Sabemos que probablemente idear una aventura no sea algo natural de todos los días. Es por ello que en caso de necesitarlo les sugerimos las siguientes estrategias:
+
+### Libros o películas
+
+Con una aventura prearmada, pueden:
+
+1. Tomar parte del guión, y emularlo, agregando ramificaciones propias
+2. Tomar a algún personaje principal o secundario, y sumergirlo en otra aventura
+3. Tomar parte del camino que llevó a esa historia, o lo que sucedió después
+4. Utilizar la misma historia, simplificada
+
+Algunos enlaces:
+
+* [Cinco cuentos breves de Cortázar](https://www.filo.news/5-cuentos-breves-de-Cortazar-para-disfrutar--t201708260003.html)
+* [Crónicas marcianas, desde página 146](http://depa.fquim.unam.mx/amyd/archivero/CronicasMarcianas_32306.pdf)
+* [9 cuentos de Salinger](https://emakbakea.files.wordpress.com/2019/02/nueve-cuentos.pdf)
+* [Saga "Elige tu propia Aventura"](https://www.elconfidencial.com/tecnologia/2013-08-24/una-app-devuelve-a-la-vida-a-los-libros-de-elige-tu-propia-aventura_20521/)
+* ¿Otros? ¡Sugerinos uno!
+
+Algunas películas:
+* El Señor de Los Anillos
+* El Hobbit
+* Volver al Futuro
+* El Padrino
+* ¿Otras? ¡Sugerinos una!
+
+### Videojuegos
+
+Un videojuego generalmente tiene una mecánica e historia ya pulidas. Sólo deberás cambiarlo para llevarlo a una ficción interactiva. ¡Cualquier juego puede servir!
+
+* Universo del Mario Bros
+* Universo de Legend of Zelda
+* Universo de Final Fantasy
+* ¿Otros? ¡Sugerinos uno!
+
+## Cuestiones tecnológicas
+
+Se puede utilizar la asistencia de bibliotecas externas, siempre y cuando no resulevan una mecánica básica del juego. Por ejemplo, podrían utilizar:
+
+* GSON
+* ... (agregaremos más luego)
 
 ## Requisitos esenciales
 
