@@ -41,7 +41,7 @@ Adicionalmente se pedirá el desarrollo de una pequeña aventura nueva, que sea 
 
 * Cinco o más lugares a explorar. Puede haber más de una conexión por la cual llegar a cada lugar.
 * Dos sitios por lugar, como mínimo. En esos sitios puede haber ítems.
-* Diez ítems con los que pueda interactuarse.
+* Al menos diez ítems con los que pueda interactuarse.
 * Tres o más maneras de interactuar distintas (abrir, usar, golpear, etc)
 * Cinco personajes no jugables con los que interactuar (dialogar, combatir, ayudar, etc)
 * Dos o más condiciones de final (llegar a un lugar, conseguir un ítem, llevar cierto ítem a cierto lugar, vencer a un villano, etc)
